@@ -1,11 +1,26 @@
-* {
-    background-color: #fcedc2;
+.nafbar-kelaz {
+    transition: ease-out 10ms;
+    border-bottom: 2px solid rgba(237, 132, 12, 0);
 }
 
-.jumbotron {
-    background-color: blue;
+.nafbar-kelaz:hover {
+    transition: ease-in 10ms;
+    border-bottom: 2px solid #ed840c;
 }
 
-.bg-jumb {
-    background-color: blue;
+.buton {
+    background-color: #e6b449
+}
+
+.yoi {
+    transform: rotate(360deg);
+}
+
+.yoi:hover {
+    transform: rotate(360deg);
+}
+
+
+.buton:hover {
+    background-color: #e6be5f
 }

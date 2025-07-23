@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</head>
+<body class="text-center text-bg-dark">
+<!--about-->
+<div style="margin-top: -50px;background-color: #2e2e2e">
+    <div class="container my-5">
+        <div style="font-family: serif; font-weight: normal" class="fs-5 row text-center my-5 justify-content-between">
+            <div class="col-7 my-5">
+                <h1 class="fs-1">404</h1>
+            </div>
+            <div class="col my-5">
+                Saya adalah developer front end dan pengembang plugin Pocketmine-MP. Software server game minecraft
+                berbahasa PHP
+                <div class="row">
+                    <div class="col my-4">
+                        <a href="https://pmmp.io"><img src="https://avatars.githubusercontent.com/u/3150836?s=280&v=4"
+                                                       style="border-radius: 40%"
+                                                       alt="CSS" width="50px"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#2e2e2e" fill-opacity="1" d="M0,192L34.3,170.7C68.6,149,137,107,206,122.7C274.3,139,343,213,411,213.3C480,213,549,139,617,122.7C685.7,107,754,149,823,181.3C891.4,213,960,235,1029,240C1097.1,245,1166,235,1234,218.7C1302.9,203,1371,181,1406,170.7L1440,160L1440,0L1405.7,0C1371.4,0,1303,0,1234,0C1165.7,0,1097,0,1029,0C960,0,891,0,823,0C754.3,0,686,0,617,0C548.6,0,480,0,411,0C342.9,0,274,0,206,0C137.1,0,69,0,34,0L0,0Z"></path></svg>
+<!--about-->
+
+<style>
+    .gelombang-1 {
+        margin-top: -50px;
+    }
+</style>
+</body>
+</html>
